@@ -1,0 +1,2 @@
+class AnimeCommentsController < ApplicationController
+end
